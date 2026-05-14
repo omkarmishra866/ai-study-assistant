@@ -5,7 +5,7 @@ from datetime import datetime
 
 # ─────────────────────────────────────────
 #  PUT YOUR GEMINI API KEY HERE
-API_KEY = "YOUR_GEMINI_API_KEY_HERE"
+API_KEY = "AIzaSyBAFanTIE4aV59-SBFfVPLiglf7oI7u-jM"
 # Get free key from: https://aistudio.google.com/app/apikey
 # ─────────────────────────────────────────
 
